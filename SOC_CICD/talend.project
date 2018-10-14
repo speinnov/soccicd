@@ -125,6 +125,8 @@
       <relatedItems xmi:id="_Eu5TcM-MEeilWtLliqC2Mg" id="DQTechnical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_Eu5Tcc-MEeilWtLliqC2Mg" id="TalendStringUtil" version="Latest" type="routine"/>
       <relatedItems xmi:id="_Eu5Tcs-MEeilWtLliqC2Mg" id="DataQualityDependencies" version="Latest" type="routine"/>
+      <relatedItems xmi:id="_DWI8oM_MEeiy7L_RjzY63w" id="_fFspYM_LEeiy7L_RjzY63w" version="Latest" type="context"/>
+      <relatedItems xmi:id="_DWI8oc_MEeiy7L_RjzY63w" id="_fFspYM_LEeiy7L_RjzY63w" version="Latest" type="joblet"/>
     </ItemsRelations>
     <ItemsRelations xmi:id="_0mTEEM_LEeiy7L_RjzY63w">
       <baseItem xmi:id="_0mTEEc_LEeiy7L_RjzY63w" id="_fFspYM_LEeiy7L_RjzY63w" version="0.1" type="joblet"/>

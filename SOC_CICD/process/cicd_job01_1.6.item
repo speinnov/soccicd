@@ -247,7 +247,7 @@
       </column>
     </metadata>
     <nodeData xsi:type="TalendMapper:MapperData">
-      <uiProperties/>
+      <uiProperties shellMaximized="true"/>
       <varTables sizeState="INTERMEDIATE" name="Var">
         <mapperTableEntries name="taxe" expression="row4.taxe ==null ? 0 : row4.taxe /100" type="id_Float"/>
       </varTables>

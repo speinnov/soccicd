@@ -1,4 +1,4 @@
-def username_cicd = 'socgen'
+def username_cicd = 'cicdgen'
 echo 'Hello Mr. ${username}'
 echo "I said, Hello Mr. ${username_cicd}"
 
